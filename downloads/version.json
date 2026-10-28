@@ -1,45 +1,45 @@
 {
-  "admin": {
-    "version": "2.3.0",
-    "versionCode": 8,
-    "title": "Febebo Admin v2.3.0",
-    "releaseDate": "2026-10-27",
-    "updatedAt": "2026-10-27T19:30:00+05:30",
-    "apkUrl": "https://febebo.com/downloads/Febebo-Admin.apk",
-    "fallbackApkUrl": "/downloads/Febebo-Admin.apk",
-    "apkFileName": "Febebo-Admin.apk",
-    "fileSizeBytes": 22422539,
-    "fileSizeDisplay": "21.4 MB"
-  },
-  "student": {
-    "version": "2.3.0",
-    "versionCode": 7,
-    "title": "Febebo Student v2.3.0",
-    "releaseDate": "2026-10-27",
-    "updatedAt": "2026-10-27T19:30:00+05:30",
-    "apkUrl": "https://febebo.com/downloads/Febebo-Student.apk",
-    "fallbackApkUrl": "/downloads/Febebo-Student.apk",
-    "apkFileName": "Febebo-Student.apk",
-    "fileSizeBytes": 19248054,
-    "fileSizeDisplay": "18.4 MB"
-  },
-  "staff": {
-    "version": "2.4.1",
-    "versionCode": 10,
-    "title": "Febebo Staff v2.4.1",
-    "releaseDate": "2026-10-27",
-    "updatedAt": "2026-10-27T19:30:00+05:30",
-    "releaseNotes": [
-      "Fixed emergency contact rendering stability",
-      "Enhanced vendor payment breakdown and contact masking",
-      "Added Direct Cash payment in Petty Cash for paying people directly (repairs, wages, fares)",
-      "Added Dairy products to Petty Cash expenses with automatic Kitchen sync"
-    ],
-    "apkUrl": "https://febebo.com/downloads/Febebo-Staff.apk",
-    "fallbackApkUrl": "/downloads/Febebo-Staff.apk",
-    "apkFileName": "Febebo-Staff.apk",
-    "fileSizeBytes": 15884168,
-    "fileSizeDisplay": "15.1 MB",
-    "isMandatory": false
-  }
+    "admin": {
+        "version": "2.3.0",
+        "versionCode": 8,
+        "title": "Febebo Admin v2.3.0",
+        "releaseDate": "2026-10-28",
+        "updatedAt": "2026-10-28T09:00:00+05:30",
+        "apkUrl": "https://febebo.com/downloads/Febebo-Admin.apk",
+        "fallbackApkUrl": "/downloads/Febebo-Admin.apk",
+        "apkFileName": "Febebo-Admin.apk",
+        "fileSizeBytes": 22422545,
+        "fileSizeDisplay": "21.4 MB"
+    },
+    "student": {
+        "version": "2.3.0",
+        "versionCode": 7,
+        "title": "Febebo Student v2.3.0",
+        "releaseDate": "2026-10-28",
+        "updatedAt": "2026-10-28T09:00:00+05:30",
+        "apkUrl": "https://febebo.com/downloads/Febebo-Student.apk",
+        "fallbackApkUrl": "/downloads/Febebo-Student.apk",
+        "apkFileName": "Febebo-Student.apk",
+        "fileSizeBytes": 19403856,
+        "fileSizeDisplay": "18.5 MB"
+    },
+    "staff": {
+        "version": "2.4.1",
+        "versionCode": 10,
+        "title": "Febebo Staff v2.4.1",
+        "releaseDate": "2026-10-28",
+        "updatedAt": "2026-10-28T09:00:00+05:30",
+        "releaseNotes": [
+            "Direct Cash & UPI Petty Cash logging with sender/receiver details",
+            "Multi-PG active property isolation across tasks, inventory, visitors, and cleaner schedules",
+            "Automatic KYC & details prompt for already resident arrivals",
+            "Instant profile and PG transfer sync"
+        ],
+        "apkUrl": "https://febebo.com/downloads/Febebo-Staff.apk",
+        "fallbackApkUrl": "/downloads/Febebo-Staff.apk",
+        "apkFileName": "Febebo-Staff.apk",
+        "fileSizeBytes": 15884171,
+        "fileSizeDisplay": "15.1 MB",
+        "isMandatory": false
+    }
 }
